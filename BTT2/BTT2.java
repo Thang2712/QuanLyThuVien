@@ -11,5 +11,6 @@ public class BTT2 {
 
         System.out.println("Xin chào, " + name + "!");
         scanner.close();
+        System.out.println("teejaze");
     }
 }
